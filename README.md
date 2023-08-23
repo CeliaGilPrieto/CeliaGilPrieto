@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Celia</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=celiagilprieto&label=Profile%20views&color=722178&style=flat" alt="celiagilprieto" /> </p>
+
 - 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **React**
